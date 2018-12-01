@@ -1,0 +1,7 @@
+[package]
+name = "aoc1"
+version = "0.1.0"
+authors = ["Johan Swetzén <johan@greenbyte.com>"]
+
+[dependencies]
+ferris-says = "0.1.1"
